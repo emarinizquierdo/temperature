@@ -1,0 +1,22 @@
+DEVICES = [
+    dict(
+        name='COCINA_CALLE',
+        id='bf73b77947780f7b113fjv',
+        range='COCINA_CALLE!A1'
+    ),
+    dict(
+        name='HABITACION_CALLE',
+        id='bfe8efd3ef2392ca24gzjb',
+        range='HABITACION_CALLE!A1'
+    ),
+    dict(
+        name='SALON',
+        id='bf889fc90b7a327d64tljz',
+        range='SALON!A1'
+    ),
+    dict(
+        name='OFICINA',
+        id='bf94336c57d9ef4d1eqlcu',
+        range='OFICINA!A1'
+    )
+]

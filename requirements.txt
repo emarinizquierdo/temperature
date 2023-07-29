@@ -2,3 +2,9 @@ paho-mqtt
 requests
 pycryptodome
 websocket-client
+gspread
+oauth2client
+google-cloud-secret-manager
+google-api-python-client
+flask
+python-dateutil
