@@ -1,4 +1,4 @@
 cron:
 - description: "daily temperature job"
   url: /tasks/temperature
-  schedule: every 24 hours
+  schedule: every day 00:10
