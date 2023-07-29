@@ -2,3 +2,7 @@ cron:
 - description: "daily temperature job"
   url: /tasks/temperature
   schedule: every day 00:10
+  timezone: Europe/Madrid
+  retry_parameters:
+    min_backoff_seconds: 2.5
+    max_doublings: 5
